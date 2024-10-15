@@ -64,7 +64,10 @@
 # in: Returns True if a sequence with the specified value is present in the object.
 
 # x = [1, 2, 3, 4, 5]
-# print(3 in x)  # True
+# print(3 in x)   # True
+# print(8 not in x)
+# print(8 in x)
+# print(4 in x)
 # not in: Returns True if a sequence with the specified value is not present in the object.
 
 # x = [1, 2, 3, 4, 5]
